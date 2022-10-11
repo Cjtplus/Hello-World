@@ -1,2 +1,2 @@
 # Hello-World
-this project establishes to do exercise
+This project was established as an exercise
